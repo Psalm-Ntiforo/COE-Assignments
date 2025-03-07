@@ -1,0 +1,10 @@
+tr:nth-child(even) {
+    background-color: rgba(254, 195, 1, 0.4);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(239, 35, 35, 0.4);
+  }
+
+  tr:hover {background-color: #D6EEEE;}
+  
